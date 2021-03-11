@@ -1,0 +1,13 @@
+﻿'classes.exe' (Win32): Loaded 'C:\myprograms\C++\classes\classes\Debug\classes.exe'. Symbols loaded.
+'classes.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'classes.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'classes.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'classes.exe' (Win32): Loaded 'C:\Program Files\AVAST Software\Avast\x86\aswhook.dll'. 
+'classes.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'classes.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'classes.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3e6c has exited with code 0 (0x0).
+'classes.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'classes.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'classes.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The program '[14612] classes.exe' has exited with code 0 (0x0).
